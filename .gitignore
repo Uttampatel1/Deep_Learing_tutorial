@@ -1,1 +1,10 @@
 venv
+datasets
+
+*.pyc
+.idea/
+**/.idea/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+**/.cache/
+.vscode
