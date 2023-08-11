@@ -8,3 +8,6 @@ datasets
 **/.ipynb_checkpoints/
 **/.cache/
 .vscode
+
+reviews_Cell_Phones_and_Accessories_5.json
+word2vec-amazon-cell-accessories-reviews-short.model
