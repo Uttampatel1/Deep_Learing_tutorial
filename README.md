@@ -60,10 +60,12 @@ If you're hungry for more knowledge, check out these additional resources:
     
     -   "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
     -   "Neural Networks and Deep Learning" by Michael Nielsen
+    
 -   Online Courses: 🖥️
     
     -   Coursera: "Deep Learning Specialization" by Andrew Ng
     -   Udacity: "Deep Learning Nanodegree" by various instructors
+
 -   Research Papers: 📑
     
     -   Check out the latest research on ArXiv and Google Scholar.
